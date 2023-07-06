@@ -11,20 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering, University of Missouri (expected 2025)
-* B.S. in Physics, University of Missouri (expected 2025)
+* B.S. in _Electrical Engineering_, __University of Missouri__ (expected 2025)
+* B.S. in _Physics_, __University of Missouri__ (expected 2025)
 
-Work experience
+Honors & Distinctions
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* College of Engineering - Dean's High Honor Roll (Spring 2021)
+* Hispanic Scholarship Fund Scholar
+  * 2022-23
+  * 2023-24
   
 Skills
 ======
